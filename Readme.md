@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data science
+I'm a skilled Software Engineer and Data Analytics professional with expertise in Java, Python, SQL, JavaScript, Angular, and frameworks like DAX, NumPy, Pandas, Scikit-learn, and Spring. I've driven significant improvements in business metrics through innovative data solutions and automation. My work in developing scalable systems and robust testing frameworks has enhanced operational efficiency and user satisfaction, achieving improvements in system scalability and a reduction in development cycles.
 
 
 # 💻 Tech Stack:
